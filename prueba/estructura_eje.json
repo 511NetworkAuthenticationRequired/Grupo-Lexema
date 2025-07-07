@@ -1,0 +1,52 @@
+{
+    "equipos": [
+        {
+            "nombre_equipo": "Alpha Devs",
+            "identidad_equipo": "https://alpha.com",
+            "direccion": {
+                "calle": "Av. Siempreviva 742",
+                "ciudad": "Springfield",
+                "pais": "Argentina"
+            },
+            "link": "https://alpha.com/contact",
+            "carrera": "Ingeniería en Sistemas",
+            "asignatura": "Programación",
+            "universidad_regional": "UTN",
+            "alianza_equipo": "Red de Innovación",
+            "integrantes": [
+                {
+                    "nombre": "Juan Pérez",
+                    "edad": 23,
+                    "cargo": "Desarrollador",
+                    "foto": "https://drive.google.com/file/d/1M5OTdbpuiXKyka2F2GSTzgZHqubrZY1t/view?usp=drive_link",
+                    "email": "juan@gmail.com",
+                    "habilidades": "Python, HTML",
+                    "salario": 32233.0,
+                    "activo": true
+                }
+            ],
+            "proyectos": [
+                {
+                    "nombre": "Plataforma E-learning",
+                    "estado": "En curso",
+                    "resumen": "Una plataforma para cursos virtuales.",
+                    "tareas": [
+                        {
+                            "nombre": "Diseño UI",
+                            "estado": "Completado",
+                            "resumen": "Creación de interfaces",
+                            "fecha_inicio": "2023-03-01",
+                            "fecha_fin": "2023-04-15"
+                        }
+                    ],
+                    "fecha_inicio": "2000-02-01",
+                    "fecha_fin": "2023-12-01",
+                    "video": "https://video.com/demo",
+                    "conclusion": "Aun en desarrollo"
+                }
+            ]
+        }
+    ],
+    "version": "HOLAa",
+    "firma_digital": "ABC123XYZ"
+}
